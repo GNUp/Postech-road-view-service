@@ -47,7 +47,7 @@
 <br><br>
 <input type="submit" value="submit">
 <input type="reset" value="reset">
-<input type="button" onclick="alert('본 서비스는 Postech hackathon의 결과물로 매우 주관적인 service입니다.\n제작자 김근우 김승환 문민재\nby 화실망했으면 team')" value="Information">
+<input type="button" onclick="alert('본 서비스는 Postech hackathon의 결과물입니다.')" value="Information">
 </fieldset>
 </form><strong><p style="color:blue;"><br>모바일이라면 주소를 복사해서 인터넷브라우저로 들어가주세요<br><br></p></strong>
 <img src="postech.jpg" alt="POSTECH" style="width:400px;height:400px;"></center>
